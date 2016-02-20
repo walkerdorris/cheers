@@ -8,12 +8,16 @@
 
 
 ### What to Implement
-1. Getting user's name and print it.
-2. Cheer the user on.
+1. Ask fot the user's name.
+2. Accept input from the user and print their name.
+3. Cheer the user on.
 
 For example, if name is "Bob", output should be:
 
 ```shell
+What's your name?
+> Bob
+
 Give me a.. b
 Give me an.. o
 Give me a.. b
