@@ -8,7 +8,7 @@
 
 
 ### What to Implement
-1. Ask fot the user's name.
+1. Ask for the user's name.
 2. Accept input from the user and print their name.
 3. Cheer the user on.
 
@@ -31,7 +31,7 @@ BOB is.. GRAND!
 2. After the cheer, your program should tell the user how many more days there are until their next birthday.
   - The user should only have to enter the Day and Month
 
-THe final version of your app should work like the following:
+The final version of your app should work like the following:
 
 
 ```shell
